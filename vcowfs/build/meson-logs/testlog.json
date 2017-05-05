@@ -1,0 +1,1 @@
+{"returncode": 1, "duration": 0.0058994293212890625, "stderr": "\u001b[31m\u001b[1mThis is not the command you are looking for.\nYou probably want to run 'python3 -m pytest test/' instead\u001b[0m\n", "name": "wrong_cmd", "result": "FAIL", "stdout": "", "env": {}, "command": ["/home/due/fuse-3.0.1/build/test/wrong_command"]}

@@ -1,0 +1,16 @@
+Log of Meson test suite run on 2017-05-03T18:22:26.636402
+
+1/1 wrong_cmd                               FAIL     0.01 s
+
+--- command ---
+/home/due/fuse-3.0.1/build/test/wrong_command
+--- stderr ---
+[31m[1mThis is not the command you are looking for.
+You probably want to run 'python3 -m pytest test/' instead[0m
+-------
+
+
+OK:         0
+FAIL:       1
+SKIP:       0
+TIMEOUT:    0

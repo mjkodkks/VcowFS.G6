@@ -1,0 +1,107 @@
+[
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse.c.o' '-MF' 'lib/fuse3@sha/fuse.c.o.d' -o 'lib/fuse3@sha/fuse.c.o' -c ../lib/fuse.c",
+    "file": "../lib/fuse.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse_loop.c.o' '-MF' 'lib/fuse3@sha/fuse_loop.c.o.d' -o 'lib/fuse3@sha/fuse_loop.c.o' -c ../lib/fuse_loop.c",
+    "file": "../lib/fuse_loop.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse_loop_mt.c.o' '-MF' 'lib/fuse3@sha/fuse_loop_mt.c.o.d' -o 'lib/fuse3@sha/fuse_loop_mt.c.o' -c ../lib/fuse_loop_mt.c",
+    "file": "../lib/fuse_loop_mt.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse_lowlevel.c.o' '-MF' 'lib/fuse3@sha/fuse_lowlevel.c.o.d' -o 'lib/fuse3@sha/fuse_lowlevel.c.o' -c ../lib/fuse_lowlevel.c",
+    "file": "../lib/fuse_lowlevel.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse_opt.c.o' '-MF' 'lib/fuse3@sha/fuse_opt.c.o.d' -o 'lib/fuse3@sha/fuse_opt.c.o' -c ../lib/fuse_opt.c",
+    "file": "../lib/fuse_opt.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/fuse_signals.c.o' '-MF' 'lib/fuse3@sha/fuse_signals.c.o.d' -o 'lib/fuse3@sha/fuse_signals.c.o' -c ../lib/fuse_signals.c",
+    "file": "../lib/fuse_signals.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/buffer.c.o' '-MF' 'lib/fuse3@sha/buffer.c.o.d' -o 'lib/fuse3@sha/buffer.c.o' -c ../lib/buffer.c",
+    "file": "../lib/buffer.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/cuse_lowlevel.c.o' '-MF' 'lib/fuse3@sha/cuse_lowlevel.c.o.d' -o 'lib/fuse3@sha/cuse_lowlevel.c.o' -c ../lib/cuse_lowlevel.c",
+    "file": "../lib/cuse_lowlevel.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/helper.c.o' '-MF' 'lib/fuse3@sha/helper.c.o.d' -o 'lib/fuse3@sha/helper.c.o' -c ../lib/helper.c",
+    "file": "../lib/helper.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/modules_subdir.c.o' '-MF' 'lib/fuse3@sha/modules_subdir.c.o.d' -o 'lib/fuse3@sha/modules_subdir.c.o' -c ../lib/modules/subdir.c",
+    "file": "../lib/modules/subdir.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/mount.c.o' '-MF' 'lib/fuse3@sha/mount.c.o.d' -o 'lib/fuse3@sha/mount.c.o' -c ../lib/mount.c",
+    "file": "../lib/mount.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/mount_util.c.o' '-MF' 'lib/fuse3@sha/mount_util.c.o.d' -o 'lib/fuse3@sha/mount_util.c.o' -c ../lib/mount_util.c",
+    "file": "../lib/mount_util.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Ilib/fuse3@sha' '-Ilib' '-I../lib' '-I.' '-I../' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-fPIC' '-pthread' '-DFUSE_USE_VERSION=30' '-DFUSERMOUNT_DIR=\"{}\"' '-MMD' '-MQ' 'lib/fuse3@sha/modules_iconv.c.o' '-MF' 'lib/fuse3@sha/modules_iconv.c.o.d' -o 'lib/fuse3@sha/modules_iconv.c.o' -c ../lib/modules/iconv.c",
+    "file": "../lib/modules/iconv.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Iutil/fusermount3@exe' '-Iutil' '-I../util' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'util/fusermount3@exe/util_mount_util.c.o' '-MF' 'util/fusermount3@exe/util_mount_util.c.o.d' -o 'util/fusermount3@exe/util_mount_util.c.o' -c util/mount_util.c",
+    "file": "util/mount_util.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Iutil/fusermount3@exe' '-Iutil' '-I../util' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'util/fusermount3@exe/fusermount.c.o' '-MF' 'util/fusermount3@exe/fusermount.c.o.d' -o 'util/fusermount3@exe/fusermount.c.o' -c ../util/fusermount.c",
+    "file": "../util/fusermount.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Iutil/mount.fuse3@exe' '-Iutil' '-I../util' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'util/mount.fuse3@exe/mount.fuse.c.o' '-MF' 'util/mount.fuse3@exe/mount.fuse.c.o.d' -o 'util/mount.fuse3@exe/mount.fuse.c.o' -c ../util/mount.fuse.c",
+    "file": "../util/mount.fuse.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Iexample/vcowfs@exe' '-Iexample' '-I../example' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'example/vcowfs@exe/vcowfs.c.o' '-MF' 'example/vcowfs@exe/vcowfs.c.o.d' -o 'example/vcowfs@exe/vcowfs.c.o' -c ../example/vcowfs.c",
+    "file": "../example/vcowfs.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Itest/test_write_cache@exe' '-Itest' '-I../test' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-pthread' '-MMD' '-MQ' 'test/test_write_cache@exe/test_write_cache.c.o' '-MF' 'test/test_write_cache@exe/test_write_cache.c.o.d' -o 'test/test_write_cache@exe/test_write_cache.c.o' -c ../test/test_write_cache.c",
+    "file": "../test/test_write_cache.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Itest/test_setattr@exe' '-Itest' '-I../test' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-pthread' '-MMD' '-MQ' 'test/test_setattr@exe/test_setattr.c.o' '-MF' 'test/test_setattr@exe/test_setattr.c.o.d' -o 'test/test_setattr@exe/test_setattr.c.o' -c ../test/test_setattr.c",
+    "file": "../test/test_setattr.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Itest/test_syscalls@exe' '-Itest' '-I../test' '-I.' '-I../' '-Ilib' '-I../lib' '-Iinclude' '-I../include' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'test/test_syscalls@exe/test_syscalls.c.o' '-MF' 'test/test_syscalls@exe/test_syscalls.c.o.d' -o 'test/test_syscalls@exe/test_syscalls.c.o' -c ../test/test_syscalls.c",
+    "file": "../test/test_syscalls.c"
+  },
+  {
+    "directory": "/home/due/fuse-3.0.1/due",
+    "command": "cc  '-Itest/wrong_command@exe' '-Itest' '-I../test' '-fdiagnostics-color=always' '-pipe' '-D_FILE_OFFSET_BITS=64' '-D_REENTRANT' '-DHAVE_CONFIG_H' '-Wall' '-Wextra' '-Wno-sign-compare' '-Wstrict-prototypes' '-Wmissing-declarations' '-Wwrite-strings' '-O2' '-g' '-fno-strict-aliasing' '-Wno-unused-result' '-MMD' '-MQ' 'test/wrong_command@exe/wrong_command.c.o' '-MF' 'test/wrong_command@exe/wrong_command.c.o.d' -o 'test/wrong_command@exe/wrong_command.c.o' -c ../test/wrong_command.c",
+    "file": "../test/wrong_command.c"
+  }
+]
